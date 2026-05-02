@@ -1,0 +1,166 @@
+{
+  "anxiety": {
+    "low": {
+      "coping_strategy": "Take one slow breath and describe what made you feel uneasy.",
+      "technique": "calmtimer",
+      "duration_seconds": 30
+    },
+    "medium": {
+      "coping_strategy": "Try a 1-minute box breathing exercise (inhale 4s, hold 4s, exhale 4s, hold 4s).",
+      "technique": "box_breathing"
+    },
+    "high": {
+      "coping_strategy": "Do a 5-minute grounding exercise: 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you feel.",
+      "technique": "grounding"
+    }
+  },
+  "stress": {
+    "low": {
+      "coping_strategy": "Identify one thing that caused pressure today.",
+      "technique": "calmtimer",
+      "duration_seconds": 30
+    },
+    "medium": {
+      "coping_strategy": "Break your next task into a 2-minute micro-step and complete just the first step.",
+      "technique": "calmtimer",
+      "duration_seconds": 120
+    },
+    "high": {
+      "coping_strategy": "Take a 5-minute walk or stretch your shoulders and neck to reduce tension.",
+      "technique": "movement_break",
+      "duration_seconds": 300
+    }
+  },
+  "sadness": {
+    "low": {
+      "coping_strategy": "Write one sentence about what affected your mood today.",
+      "technique": "calmtimer",
+      "duration_seconds": 60
+    },
+    "medium": {
+      "coping_strategy": "Do a 1-minute self-compassion check: say something comforting to yourself.",
+      "technique": "self_compassion",
+      "duration_seconds": 60
+    },
+    "high": {
+      "coping_strategy": "Choose one mood-lifting action: listen to calming soundscape, take fresh air for 3 minutes, or message someone you trust.",
+      "technique": "box_breathing"
+    }
+  },
+  "anger": {
+    "low": {
+      "coping_strategy": "Pause and label the emotion: what triggered your irritation?",
+      "technique": "calmtimer",
+      "duration_seconds": 30
+    },
+    "medium": {
+      "coping_strategy": "Take 10 deep breaths with slow exhales to release physical tension.",
+      "technique": "box_breathing"
+    },
+    "high": {
+      "coping_strategy": "Do a 30-second release: shake your arms or press your feet firmly into the ground to calm your body.",
+      "technique": "movement_break",
+      "duration_seconds": 30
+    }
+  },
+  "fear": {
+    "low": {
+      "coping_strategy": "Acknowledge what you're afraid of in one sentence.",
+      "technique": "calmtimer",
+      "duration_seconds": 30
+    },
+    "medium": {
+      "coping_strategy": "Reframe the situation by asking: What is the most realistic outcome?",
+      "technique": "calmtimer",
+      "duration_seconds": 60
+    },
+    "high": {
+      "coping_strategy": "Try a reassurance routine: 'I am safe, I am present, I can handle this.' Repeat 3 times.",
+      "technique": "calmtimer",
+      "duration_seconds": 45
+    }
+  },
+  "disgust": {
+    "low": {
+      "coping_strategy": "Note what felt unpleasant today.",
+      "technique": "calmtimer",
+      "duration_seconds": 30
+    },
+    "medium": {
+      "coping_strategy": "Step away from the situation for 1 minute to mentally reset.",
+      "technique": "movement_break",
+      "duration_seconds": 60
+    },
+    "high": {
+      "coping_strategy": "Do a quick sensory reset: wash your hands or splash cool water on your face.",
+      "technique": "calmtimer"
+    }
+  },
+  "joy": {
+    "low": {
+      "coping_strategy": "Identify one small positive thing that happened today.",
+      "technique": "calmtimer",
+      "duration_seconds": 30
+    },
+    "medium": {
+      "coping_strategy": "Save today’s positive moment in your mood log.",
+      "technique": "calmtimer",
+      "duration_seconds": 30
+    },
+    "high": {
+      "coping_strategy": "Use this energy to plan one small task that your future self will appreciate.",
+      "technique": "calmtimer",
+      "duration_seconds": 60
+    }
+  },
+  "neutral": {
+    "low": {
+      "coping_strategy": "Tell us one thing you wish was different today.",
+      "technique": "calmtimer",
+      "duration_seconds": 30
+    },
+    "medium": {
+      "coping_strategy": "Do a quick check-in: rate your energy from 1 to 10.",
+      "technique": "calmtimer",
+      "duration_seconds": 30
+    },
+    "high": {
+      "coping_strategy": "Choose a direction: relaxation or productivity, and we’ll guide your next step.",
+      "technique": "calmtimer",
+      "duration_seconds": 30
+    }
+  },
+  "surprise": {
+    "low": {
+      "coping_strategy": "Describe what surprised you during the day.",
+      "technique": "calmtimer",
+      "duration_seconds": 30
+    },
+    "medium": {
+      "coping_strategy": "Take 30 seconds to reflect if the surprise affected your mood.",
+      "technique": "calmtimer",
+      "duration_seconds": 30
+    },
+    "high": {
+      "coping_strategy": "Do a short grounding breath to stabilize after sudden change.",
+      "technique": "grounding"
+    }
+  },
+  "love": {
+    "low": {
+      "coping_strategy": "Think about one supportive person from today.",
+      "technique": "calmtimer",
+      "duration_seconds": 30
+    },
+    "medium": {
+      "coping_strategy": "Send a quick appreciation or thank-you message to someone meaningful.",
+      "technique": "calmtimer",
+      "duration_seconds": 60
+    },
+    "high": {
+      "coping_strategy": "Use this positive mood: list two things you feel grateful for right now.",
+      "technique": "calmtimer",
+      "duration_seconds": 45
+    }
+  }
+}
